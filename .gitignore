@@ -1,0 +1,7 @@
+.vscode/settings.json
+src/libs/shove/demo/*
+src/libs/shove/.github/*
+src/libs/shove/.envrc
+src/libs/shove/.gitignore
+src/libs/shove/.editorconfig
+src/libs/shove-1.0.6/*
